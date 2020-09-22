@@ -10,6 +10,7 @@
   <version>1.1-SNAPSHOT</version>
   <modules>
     <module>flink-word-count</module>
+    <module>flink-kafka-connector</module>
   </modules>
 
   <name>flink-quickstart</name>
