@@ -5,7 +5,7 @@
   <parent>
     <artifactId>flink-quickstart</artifactId>
     <groupId>cn.jxzhang.quickstart</groupId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.1-SNAPSHOT</version>
   </parent>
   <modelVersion>4.0.0</modelVersion>
 
@@ -27,7 +27,7 @@
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <flink.version>1.10.0</flink.version>
+    <flink.version>1.8.0</flink.version>
     <scala.binary.version>2.11</scala.binary.version>
     <scala.version>2.11.12</scala.version>
   </properties>
