@@ -23,6 +23,8 @@ object Main {
           println(_:AnyVal)
       }
     })
+
+    val person: Person = Person("zhangSan")
   }
 
   private def loadConfig(args: Array[String]): Map[String, AnyRef] = {
